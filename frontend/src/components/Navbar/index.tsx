@@ -1,5 +1,5 @@
 import {ReactComponent as GihubIcon} from 'assets/img/Vector.svg' // importando imagem para aproveitar em um componente
-import './styles.css' 
+ 
 
 function Navbar(){
 

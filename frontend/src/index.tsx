@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import 'bootstrap/dist/css/bootstrap.css';
 import './index.css';
-import 'components/Navbar/styles.css'
+
 
 ReactDOM.render(
   <React.StrictMode>
